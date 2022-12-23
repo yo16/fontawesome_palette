@@ -1,0 +1,2 @@
+# fontawesome_palette
+FontAwesomeの無料アイコンを選んだり色を変えたりする
